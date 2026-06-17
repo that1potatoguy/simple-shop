@@ -1,0 +1,7 @@
+[
+  {"name": "Potato", "slug": "potato", "description": "they taste good", "price": 2.99, "image": "https://www.veggipedia.nl/_next/image?url=https%3A%2F%2Fveggipedia-cms.production.taks.zooma.cloud%2Fassets%2FUploads%2FProducts%2FAardappel-groenten-Veggipedia__FitMaxWzYwMCw2MDBd.png&w=3840&q=75"},
+  {"name": "old lady", "slug": "old-lady", "description": "Very rare", "price": 14.99, "image": "https://i.guim.co.uk/img/media/2b6434234ff9d347a22667bddbf8f218c896532b/0_38_3600_2160/master/3600.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6d28e5eca8ea42419e6d058aeb104e55"},
+  {"name": "lil guy", "slug": "lil-guy", "description": "make sure to feed him", "price": -50.00, "image": "https://i.pinimg.com/736x/5f/d4/b7/5fd4b728243e5f5bd79979186bcbb1e0.jpg"},
+  {"name": "worm", "slug": "worm", "description": "they cant see", "price": 0.05, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUAFBdykp41p7vZH4vXxAF_xBfNZYq4ED8Q&s"},
+  {"name": "sweets that give you cancer", "slug": "sweets-that-give-you-cancer", "description": "dont eat to many", "price": 10.00, "image": "https://www.sugarhero.com/wp-content/uploads/2022/10/crystal-meth-rock-candy-square-2.jpg"}
+]
